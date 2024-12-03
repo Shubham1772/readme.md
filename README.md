@@ -12,8 +12,19 @@ Saloni Malviya-KU2407U194
 Shubham Padhiyar-KU2407U206
 ### OBJECTIVE OF THE PROJECT
 #### TOOLS AND LIBRARIES
-Tools-
-Libraries-numpy,pandas,matplotlib,plotpy,scikit learn,seaborn
+#### Tools-
+
+LIBRARIES-NUMPY
+
+PANDAS
+
+MATPOLT1LIB
+
+PLOTPY
+
+SCIKIT LEARN
+
+SEABORN
 ##### DATA SORUCE
 ###### EXECUTION STEPS
 ###### SUMMARY OF RESULTS
